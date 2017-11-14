@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/rajvirsingh/.android/build-cache/4e97e7abf0086db1431af0147acd10d12ae3d900/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/rajvirsingh/Desktop/drive/androidprojects/codementor eddie assignments/Andriod Studio Projects/CSC537_Fall2017_HW2_Template-master.zip (Unzipped Files)/CSC537_Fall2017_HW2_Template-master/app/build/intermediates/pre-dexed/debug/classes_be69fab0dbaeac5bd98c8afa71e9a9f33963cc41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rajvirsingh/.android/build-cache/93382bf9ae8254e0087f94950e41beb9b0cebc6c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/rajvirsingh/Desktop/drive/androidprojects/codementor eddie assignments/Andriod Studio Projects/CSC537_Fall2017_HW2_Template-master.zip (Unzipped Files)/CSC537_Fall2017_HW2_Template-master/app/build/intermediates/pre-dexed/debug/classes_b4a7d6cea07fa92b3217e5ad6f6b5a22008db3d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rajvirsingh/.android/build-cache/9f14ea4873f030e7be126a698544c595be819e6a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/rajvirsingh/Desktop/drive/androidprojects/codementor eddie assignments/Andriod Studio Projects/CSC537_Fall2017_HW2_Template-master.zip (Unzipped Files)/CSC537_Fall2017_HW2_Template-master/app/build/intermediates/pre-dexed/debug/classes_b9ba340986ac613740bd61d67e685e7d34abfb01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rajvirsingh/.android/build-cache/156c72532e4321e3346f9d998eab33bcb7123246/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/rajvirsingh/Desktop/drive/androidprojects/codementor eddie assignments/Andriod Studio Projects/CSC537_Fall2017_HW2_Template-master.zip (Unzipped Files)/CSC537_Fall2017_HW2_Template-master/app/build/intermediates/pre-dexed/debug/classes_117c9069b73c2cc5490ef5b14084553d5c80b1dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rajvirsingh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/rajvirsingh/Desktop/drive/androidprojects/codementor eddie assignments/Andriod Studio Projects/CSC537_Fall2017_HW2_Template-master.zip (Unzipped Files)/CSC537_Fall2017_HW2_Template-master/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_b4f2993c2eb74502e72551a6c09d8f15c6733882.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rajvirsingh/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/rajvirsingh/Desktop/drive/androidprojects/codementor eddie assignments/Andriod Studio Projects/CSC537_Fall2017_HW2_Template-master.zip (Unzipped Files)/CSC537_Fall2017_HW2_Template-master/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_6ff0c457fe36969c9574a05a5c9c7c9f721fa15e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rajvirsingh/.android/build-cache/33d72f036b7e6744b227951f3545f31424be88e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/rajvirsingh/Desktop/drive/androidprojects/codementor eddie assignments/Andriod Studio Projects/CSC537_Fall2017_HW2_Template-master.zip (Unzipped Files)/CSC537_Fall2017_HW2_Template-master/app/build/intermediates/pre-dexed/debug/classes_dbadef455dca095b8be529ece6105574de5a8153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rajvirsingh/.android/build-cache/4067fe0b0a6788f8376eedbab659a6d70ff1ca9d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/rajvirsingh/Desktop/drive/androidprojects/codementor eddie assignments/Andriod Studio Projects/CSC537_Fall2017_HW2_Template-master.zip (Unzipped Files)/CSC537_Fall2017_HW2_Template-master/app/build/intermediates/pre-dexed/debug/classes_b488534588eada1326bddf9ea23f944e3592b226.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rajvirsingh/.android/build-cache/e889ba8eb4e63539a4f21c2df15980ec909a590d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rajvirsingh/Desktop/drive/androidprojects/codementor eddie assignments/Andriod Studio Projects/CSC537_Fall2017_HW2_Template-master.zip (Unzipped Files)/CSC537_Fall2017_HW2_Template-master/app/build/intermediates/pre-dexed/debug/classes_416496d399fa3a0a23530c48f773db1f81235438.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rajvirsingh/.android/build-cache/b668a55fce97250dafa21f22e0f8af4bc413cde3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/rajvirsingh/Desktop/drive/androidprojects/codementor eddie assignments/Andriod Studio Projects/CSC537_Fall2017_HW2_Template-master.zip (Unzipped Files)/CSC537_Fall2017_HW2_Template-master/app/build/intermediates/pre-dexed/debug/classes_41b23bfcf7063ec54497bb8a1517e5c5e27d6042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rajvirsingh/.android/build-cache/8675a5f9263f307bae6c4ba571ba3cccde38438e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/rajvirsingh/Desktop/drive/androidprojects/codementor eddie assignments/Andriod Studio Projects/CSC537_Fall2017_HW2_Template-master.zip (Unzipped Files)/CSC537_Fall2017_HW2_Template-master/app/build/intermediates/pre-dexed/debug/classes_c99813607e86129ac56659bd9836fd7ea79ac2f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rajvirsingh/.android/build-cache/669362aa3f56c9a61b3d9f37ee0bf01e56d3e21b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/rajvirsingh/Desktop/drive/androidprojects/codementor eddie assignments/Andriod Studio Projects/CSC537_Fall2017_HW2_Template-master.zip (Unzipped Files)/CSC537_Fall2017_HW2_Template-master/app/build/intermediates/pre-dexed/debug/classes_5fa971d80c8fde7a9beec6a740ac0137660bb340.jar" />
+    </item>
+
+</items>

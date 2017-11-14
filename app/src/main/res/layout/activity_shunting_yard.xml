@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context="com.example.awesomefat.csc537_fall2017_hw2_template.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:id="@+id/result"
+
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="50dp"
+        />
+
+    <EditText
+        android:layout_below="@+id/result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Arithmetic Expression "
+
+        android:id="@+id/first_string"
+        android:gravity="center"
+        />
+
+    <ImageView
+        android:id="@+id/add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/first_string"
+        android:visibility="gone"
+        android:src="@drawable/ic_add_circle_outline_black_24dp"/>
+
+    <EditText
+        android:id="@+id/second_string"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Integer"
+        android:inputType="number"
+        android:visibility="gone"
+        android:layout_below="@id/add"
+        android:gravity="center"
+        />
+    <Button
+        android:id="@+id/add_button"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:drawableLeft="@drawable/ic_computer_black_24dp"
+        android:text="Compute"
+        android:layout_below="@+id/second_string"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:id="@+id/result_postfix"
+        android:layout_below="@id/add_button"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:layout_marginTop="30dp"
+        />
+
+
+
+</RelativeLayout>

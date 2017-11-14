@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="27"
+    build-mode="FULL"
+    density="560dpi"
+    format="10"
+    plugin-version="3.0.0"
+    timestamp="1510698768337"
+    token="3285901923943239551"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\outputs\apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1510698768337"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\CSC537_Fall2017_HW2_Template-master\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\eodiong\Documents\537\ShuntingYard\ShuntingYard\Shunting Yard\app\build\outputs\apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+
+</instant-run>
